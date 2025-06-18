@@ -7,7 +7,7 @@ A Python SDK developed by Gunish Swarnkar(email: gunish99@gmail.com, github: htt
 - Easy authentication (Azure CLI or Service Principal)
 - Workspace and resource management
 - Bulk operations and pagination
-- ...and more!
+- ...and more coming soon! 
 
 ## Installation
 
